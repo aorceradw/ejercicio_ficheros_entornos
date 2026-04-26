@@ -13,3 +13,6 @@ Pongo en la terminal python -m venv .venv
 Y para activarlo como estoy en windows .venv\Scripts\activate
 
 
+**4 CARPETAS APP DATOS Y TEST**
+
+He creadp una feature especifica para crear las carpetas.
